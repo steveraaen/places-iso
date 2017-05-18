@@ -1,0 +1,883 @@
+{
+    "documentation": "https://geocoder.opencagedata.com/api",
+    "licenses": [{
+        "name": "CC-BY-SA",
+        "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }, {
+        "name": "ODbL",
+        "url": "http://opendatacommons.org/licenses/odbl/summary/"
+    }],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2477,
+        "reset": 1494201600
+    },
+    "results": [{
+        "annotations": {
+            "DMS": {
+                "lat": "44° 7' 8.41764'' N",
+                "lng": "15° 13' 55.04664'' E"
+            },
+            "MGRS": "33TWJ1855985116",
+            "Maidenhead": "JN74oc78un",
+            "Mercator": {
+                "x": 1695613.742,
+                "y": 5454120.74
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=1832917478#map=17/44.11900/15.23196",
+                "url": "https://www.openstreetmap.org/?mlat=44.11900&mlon=15.23196#map=17/44.11900/15.23196"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfffxeef6des2z2zr3e",
+            "qibla": 130.17,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180600,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "drivers.spell.sandals"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.2790049,
+                "lng": 15.3919574
+            },
+            "southwest": {
+                "lat": 43.9590049,
+                "lng": 15.0719574
+            }
+        },
+        "components": {
+            "_type": "city",
+            "city": "Zadar",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County"
+        },
+        "confidence": 3,
+        "formatted": "Zadar, Zadar County, Croatia",
+        "geometry": {
+            "lat": 44.1190049,
+            "lng": 15.2319574
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "33° 25' 36.91596'' S",
+                "lng": "70° 44' 30.55164'' W"
+            },
+            "MGRS": "19HCD3806400026",
+            "Maidenhead": "FF46pn07xm",
+            "Mercator": {
+                "x": -7874943.369,
+                "y": -3928571.732
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?way=26378620#map=17/-33.42692/-70.74182",
+                "url": "https://www.openstreetmap.org/?mlat=-33.42692&mlon=-70.74182#map=17/-33.42692/-70.74182"
+            },
+            "callingcode": 56,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "&#x20B1;",
+                "iso_code": "CLF",
+                "iso_numeric": 990,
+                "name": "Unidad de Fomento",
+                "subunit": "Peso",
+                "subunit_to_unit": 10000,
+                "symbol": "UF",
+                "symbol_first": 1,
+                "thousands_separator": "."
+            },
+            "geohash": "66j9y4z6h47bsntkdt1m",
+            "qibla": 81.86,
+            "sun": {
+                "rise": {
+                    "apparent": 1494156060,
+                    "astronomical": 1494150960,
+                    "civil": 1494154500,
+                    "nautical": 1494152760
+                },
+                "set": {
+                    "apparent": 1494194160,
+                    "astronomical": 1494199260,
+                    "civil": 1494195720,
+                    "nautical": 1494197460
+                }
+            },
+            "timezone": {
+                "name": "America/Santiago",
+                "now_in_dst": 1,
+                "offset_sec": -10800,
+                "offset_string": -300,
+                "short_name": "CLST"
+            },
+            "what3words": {
+                "words": "includes.stapled.name"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": -33.4254077,
+                "lng": -70.7408336
+            },
+            "southwest": {
+                "lat": -33.428136,
+                "lng": -70.7431591
+            }
+        },
+        "components": {
+            "_type": "road",
+            "city": "Cerro Navia",
+            "country": "Chile",
+            "country_code": "cl",
+            "county": "Provincia de Santiago",
+            "postcode": "9010290",
+            "road": "Zadar",
+            "state": "Región Metropolitana de Santiago",
+            "suburb": "Cerro Navia"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, 9010290 Cerro Navia, Chile",
+        "geometry": {
+            "lat": -33.4269211,
+            "lng": -70.7418199
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "44° 6' 23.22504'' N",
+                "lng": "15° 14' 31.94664'' E"
+            },
+            "MGRS": "33TWJ1938483724",
+            "Maidenhead": "JN74oc95bn",
+            "Mercator": {
+                "x": 1696754.765,
+                "y": 5452181.094
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?way=93374049#map=17/44.10645/15.24221",
+                "url": "https://www.openstreetmap.org/?mlat=44.10645&mlon=15.24221#map=17/44.10645/15.24221"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfffv749nmwfxq59932",
+            "qibla": 130.17,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180600,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "costumes.results.supreme"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.1067426,
+                "lng": 15.2426595
+            },
+            "southwest": {
+                "lat": 44.1061636,
+                "lng": 15.2417552
+            }
+        },
+        "components": {
+            "_type": "station",
+            "city": "Zadar",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County",
+            "neighbourhood": "Ričina",
+            "postcode": "23107",
+            "road": "Vladka Mačeka",
+            "station": "Zadar",
+            "suburb": "Arbanasi"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Vladka Mačeka, 23107 Zadar, Croatia",
+        "geometry": {
+            "lat": 44.1064514,
+            "lng": 15.2422074
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "44° 7' 19.44048'' N",
+                "lng": "15° 15' 6.91596'' E"
+            },
+            "MGRS": "33TWJ2015685461",
+            "Maidenhead": "JN74pc09fh",
+            "Mercator": {
+                "x": 1697836.09,
+                "y": 5454593.899
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=4311127291#map=17/44.12207/15.25192",
+                "url": "https://www.openstreetmap.org/?mlat=44.12207&mlon=15.25192#map=17/44.12207/15.25192"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfg504jet2skzj2w7rw",
+            "qibla": 130.2,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180600,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "foster.grouping.shiny"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.1221168,
+                "lng": 15.2519711
+            },
+            "southwest": {
+                "lat": 44.1220168,
+                "lng": 15.2518711
+            }
+        },
+        "components": {
+            "_type": "hotel",
+            "city": "Zadar",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County",
+            "hotel": "Задар",
+            "house_number": "17",
+            "neighbourhood": "Gornji Bilig",
+            "postcode": "23000",
+            "road": "Put Biliga",
+            "suburb": "Bili brig"
+        },
+        "confidence": 9,
+        "formatted": "Задар, Put Biliga 17, 23000 Zadar, Croatia",
+        "geometry": {
+            "lat": 44.1220668,
+            "lng": 15.2519211
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "44° 6' 48.40560'' N",
+                "lng": "15° 13' 29.56548'' E"
+            },
+            "MGRS": "33TWJ1799584497",
+            "Maidenhead": "JN74oc67xf",
+            "Mercator": {
+                "x": 1694825.811,
+                "y": 5453261.781
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=3687793640#map=17/44.11345/15.22488",
+                "url": "https://www.openstreetmap.org/?mlat=44.11345&mlon=15.22488#map=17/44.11345/15.22488"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfffqw7mqkg6kw59wyh",
+            "qibla": 130.15,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180600,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "easels.runs.quite"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.113496,
+                "lng": 15.2249293
+            },
+            "southwest": {
+                "lat": 44.113396,
+                "lng": 15.2248293
+            }
+        },
+        "components": {
+            "_type": "restaurant",
+            "city": "Zadar",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County",
+            "neighbourhood": "Varoš",
+            "postcode": "23103",
+            "restaurant": "Zadar",
+            "road": "Ulica Mihovila Pavlinovića",
+            "suburb": "Voštarnica"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Ulica Mihovila Pavlinovića, 23103 Zadar, Croatia",
+        "geometry": {
+            "lat": 44.113446,
+            "lng": 15.2248793
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "44° 7' 28.82064'' N",
+                "lng": "15° 13' 58.88100'' E"
+            },
+            "MGRS": "33TWJ1864385746",
+            "Maidenhead": "JN74oc79xw",
+            "Mercator": {
+                "x": 1695732.308,
+                "y": 5454996.564
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=3770453082#map=17/44.12467/15.23302",
+                "url": "https://www.openstreetmap.org/?mlat=44.12467&mlon=15.23302#map=17/44.12467/15.23302"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfg48skg5hg6z263b73",
+            "qibla": 130.18,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180600,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "turkeys.faces.wiggles"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.1247224,
+                "lng": 15.2330725
+            },
+            "southwest": {
+                "lat": 44.1246224,
+                "lng": 15.2329725
+            }
+        },
+        "components": {
+            "_type": "bakery",
+            "bakery": "Zadar",
+            "city": "Zadar",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County",
+            "neighbourhood": "Maslina",
+            "postcode": "23104",
+            "road": "Dr. Franje Tuđmana",
+            "suburb": "Belafuža"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Dr. Franje Tuđmana, 23104 Zadar, Croatia",
+        "geometry": {
+            "lat": 44.1246724,
+            "lng": 15.2330225
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "52° 33' 18.11016'' N",
+                "lng": "13° 20' 27.95784'' E"
+            },
+            "MGRS": "33UUU8753324066",
+            "Maidenhead": "JO62qn03we",
+            "Mercator": {
+                "x": 1485124.392,
+                "y": 6867163.955
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=1296441893#map=17/52.55503/13.34110",
+                "url": "https://www.openstreetmap.org/?mlat=52.55503&mlon=13.34110#map=17/52.55503/13.34110"
+            },
+            "callingcode": 49,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "&#x20AC;",
+                "iso_code": "EUR",
+                "iso_numeric": 978,
+                "name": "Euro",
+                "smallest_denomination": 1,
+                "subunit": "Cent",
+                "subunit_to_unit": 100,
+                "symbol": "€",
+                "symbol_first": 1,
+                "thousands_separator": "."
+            },
+            "geohash": "u336zx6enpu8zpqmgj06",
+            "qibla": 136.63,
+            "sun": {
+                "rise": {
+                    "apparent": 1494127380,
+                    "astronomical": 1494117000,
+                    "civil": 1494124920,
+                    "nautical": 1494121620
+                },
+                "set": {
+                    "apparent": 1494182700,
+                    "astronomical": 1494193260,
+                    "civil": 1494185160,
+                    "nautical": 1494188520
+                }
+            },
+            "timezone": {
+                "name": "Europe/Berlin",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "outdoors.tanked.roaring"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 52.5550806,
+                "lng": 13.3411494
+            },
+            "southwest": {
+                "lat": 52.5549806,
+                "lng": 13.3410494
+            }
+        },
+        "components": {
+            "_type": "restaurant",
+            "city_district": "Mitte",
+            "country": "Germany",
+            "country_code": "de",
+            "neighbourhood": "Afrikanisches Viertel",
+            "postcode": "13351",
+            "restaurant": "Zadar",
+            "road": "Otawistraße",
+            "state": "Berlin",
+            "suburb": "Wedding"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Otawistraße, 13351 Berlin, Germany",
+        "geometry": {
+            "lat": 52.5550306,
+            "lng": 13.3410994
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "45° 2' 2.30640'' N",
+                "lng": "5° 2' 9.23424'' E"
+            },
+            "MGRS": "31TFK6036588740",
+            "Maidenhead": "JN25ma48hd",
+            "Mercator": {
+                "x": 560593.646,
+                "y": 5596628.059
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=1617870268#map=17/45.03397/5.03590",
+                "url": "https://www.openstreetmap.org/?mlat=45.03397&mlon=5.03590#map=17/45.03397/5.03590"
+            },
+            "callingcode": 33,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "&#x20AC;",
+                "iso_code": "EUR",
+                "iso_numeric": 978,
+                "name": "Euro",
+                "smallest_denomination": 1,
+                "subunit": "Cent",
+                "subunit_to_unit": 100,
+                "symbol": "€",
+                "symbol_first": 1,
+                "thousands_separator": "."
+            },
+            "geohash": "u0584w5jbvnnb39x7549",
+            "qibla": 118.03,
+            "sun": {
+                "rise": {
+                    "apparent": 1494130800,
+                    "astronomical": 1494123480,
+                    "civil": 1494128820,
+                    "nautical": 1494126300
+                },
+                "set": {
+                    "apparent": 1494183240,
+                    "astronomical": 1494190620,
+                    "civil": 1494185220,
+                    "nautical": 1494187740
+                }
+            },
+            "timezone": {
+                "name": "Europe/Paris",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "spend.hairpin.january"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 45.034024,
+                "lng": 5.0359484
+            },
+            "southwest": {
+                "lat": 45.033924,
+                "lng": 5.0358484
+            }
+        },
+        "components": {
+            "_type": "bus_stop",
+            "bus_stop": "Zadar",
+            "country": "France",
+            "country_code": "fr",
+            "county": "Valence",
+            "postcode": "26100",
+            "road": "Avenue Salvador Allende",
+            "state": "Auvergne-Rhône-Alpes",
+            "town": "Romans-sur-Isère"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Avenue Salvador Allende, 26100 Romans-sur-Isère, France",
+        "geometry": {
+            "lat": 45.033974,
+            "lng": 5.0358984
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "44° 8' 36.14712'' N",
+                "lng": "15° 12' 40.79484'' E"
+            },
+            "MGRS": "33TWJ1690287819",
+            "Maidenhead": "JN74od54ij",
+            "Mercator": {
+                "x": 1693317.721,
+                "y": 5457887.236
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=3697755752#map=17/44.14337/15.21133",
+                "url": "https://www.openstreetmap.org/?mlat=44.14337&mlon=15.21133#map=17/44.14337/15.21133"
+            },
+            "callingcode": 385,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "",
+                "iso_code": "HRK",
+                "iso_numeric": 191,
+                "name": "Croatian Kuna",
+                "smallest_denomination": 1,
+                "subunit": "Lipa",
+                "subunit_to_unit": 100,
+                "symbol": "kn",
+                "symbol_first": 0,
+                "thousands_separator": "."
+            },
+            "geohash": "srfg4hh9c9rhhcuq9ned",
+            "qibla": 130.17,
+            "sun": {
+                "rise": {
+                    "apparent": 1494128520,
+                    "astronomical": 1494121380,
+                    "civil": 1494126540,
+                    "nautical": 1494124140
+                },
+                "set": {
+                    "apparent": 1494180660,
+                    "astronomical": 1494187800,
+                    "civil": 1494182580,
+                    "nautical": 1494185040
+                }
+            },
+            "timezone": {
+                "name": "Europe/Belgrade",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "chart.grinning.triads"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 44.1434242,
+                "lng": 15.2113819
+            },
+            "southwest": {
+                "lat": 44.1433242,
+                "lng": 15.2112819
+            }
+        },
+        "components": {
+            "_type": "information",
+            "country": "Croatia",
+            "country_code": "hr",
+            "county": "Zadar County",
+            "information": "Zadar",
+            "neighbourhood": "Donji Brig",
+            "postcode": "23103",
+            "road": "Krešimirova obala",
+            "suburb": "Puntamika",
+            "village": "Diklo"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Krešimirova obala, 23103 Diklo, Croatia",
+        "geometry": {
+            "lat": 44.1433742,
+            "lng": 15.2113319
+        }
+    }, {
+        "annotations": {
+            "DMS": {
+                "lat": "52° 35' 1.41720'' N",
+                "lng": "13° 18' 3.19680'' E"
+            },
+            "MGRS": "33UUU8488227321",
+            "Maidenhead": "JO62po60cc",
+            "Mercator": {
+                "x": 1480648.079,
+                "y": 6872406.689
+            },
+            "OSM": {
+                "edit_url": "https://www.openstreetmap.org/edit?node=665088935#map=17/52.58373/13.30089",
+                "url": "https://www.openstreetmap.org/?mlat=52.58373&mlon=13.30089#map=17/52.58373/13.30089"
+            },
+            "callingcode": 49,
+            "currency": {
+                "alternate_symbols": [],
+                "decimal_mark": ",",
+                "html_entity": "&#x20AC;",
+                "iso_code": "EUR",
+                "iso_numeric": 978,
+                "name": "Euro",
+                "smallest_denomination": 1,
+                "subunit": "Cent",
+                "subunit_to_unit": 100,
+                "symbol": "€",
+                "symbol_first": 1,
+                "thousands_separator": "."
+            },
+            "geohash": "u337nst6mjhvtvdk2d6w",
+            "qibla": 136.6,
+            "sun": {
+                "rise": {
+                    "apparent": 1494127380,
+                    "astronomical": 1494117000,
+                    "civil": 1494124920,
+                    "nautical": 1494121620
+                },
+                "set": {
+                    "apparent": 1494182700,
+                    "astronomical": 1494193260,
+                    "civil": 1494185160,
+                    "nautical": 1494188520
+                }
+            },
+            "timezone": {
+                "name": "Europe/Berlin",
+                "now_in_dst": 1,
+                "offset_sec": 7200,
+                "offset_string": 200,
+                "short_name": "CEST"
+            },
+            "what3words": {
+                "words": "spelling.ideal.deeply"
+            }
+        },
+        "bounds": {
+            "northeast": {
+                "lat": 52.583777,
+                "lng": 13.300938
+            },
+            "southwest": {
+                "lat": 52.583677,
+                "lng": 13.300838
+            }
+        },
+        "components": {
+            "_type": "restaurant",
+            "city_district": "Reinickendorf",
+            "country": "Germany",
+            "country_code": "de",
+            "house_number": "59",
+            "postcode": "13509",
+            "restaurant": "Zadar",
+            "road": "Ernststraße",
+            "state": "Berlin",
+            "suburb": "Borsigwalde"
+        },
+        "confidence": 9,
+        "formatted": "Zadar, Ernststraße 59, 13509 Berlin, Germany",
+        "geometry": {
+            "lat": 52.583727,
+            "lng": 13.300888
+        }
+    }],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "http://blog.opencagedata.com",
+        "twitter": "https://twitter.com/opencagedata"
+    },
+    "thanks": "For using an OpenCage Data API",
+    "timestamp": {
+        "created_http": "Sun, 07 May 2017 16:04:55 GMT",
+        "created_unix": 1494173095
+    },
+    "total_results": 10
+}
